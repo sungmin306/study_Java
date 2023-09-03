@@ -9,3 +9,4 @@ public class UsingDefine {
         System.out.println("영어 과목 코드 값은 " + Define.ENG + "입니다.");
     }
 }
+
