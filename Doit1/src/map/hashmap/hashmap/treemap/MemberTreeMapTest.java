@@ -20,5 +20,8 @@ public class MemberTreeMapTest {
 
         memberHashMap.removeMember(1004);
         memberHashMap.showAllMember();
+//        Integer a = new Integer(100);
+//        System.out.println(a);
+
     }
 }
